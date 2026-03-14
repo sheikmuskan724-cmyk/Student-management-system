@@ -1,0 +1,25 @@
+body{
+font-family:Arial;
+padding:20px;
+background:#f4f4f4;
+}
+
+input{
+padding:8px;
+margin:5px;
+}
+
+button{
+padding:8px 12px;
+cursor:pointer;
+}
+
+table{
+margin-top:20px;
+width:60%;
+}
+
+th{
+background:#333;
+color:white;
+}
